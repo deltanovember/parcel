@@ -1,0 +1,1 @@
+{"version":3,"sources":["index2.js"],"names":["console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,QAAQC,GAAR,CAAY,eAAZ","file":"index2.a765f5b2.map","sourceRoot":"..","sourcesContent":["console.log(\"hello world 2\");"]}
